@@ -1,0 +1,1729 @@
+{
+  "id": 99,
+  "name": "Elektronika",
+  "url": "/elektronika",
+  "subcategories": [
+    { 
+      "id": 1838,
+      "name": "Telefony",
+      "url": "/elektronika/telefony",
+      "subcategories": [
+        {
+          "id": 2906,
+          "name": "Akcesoria",
+          "url": "/elektronika/telefony/akcesoria",
+          "subcategories": [
+            {
+              "id": 2910,
+              "name": "Etui",
+              "url": "/elektronika/telefony/akcesoria/etui",
+              "subcategories": []
+            },
+            {
+              "id": 2911,
+              "name": "Folie i szkła ochronne",
+              "url": "/elektronika/telefony/akcesoria/folie-i-szkla-ochronne",
+              "subcategories": []
+            },
+            {
+              "id": 2913,
+              "name": "Ładowarki",
+              "url": "/elektronika/telefony/akcesoria/ladowarki",
+              "subcategories": []
+            },
+            {
+              "id": 2912,
+              "name": "Kable",
+              "url": "/elektronika/telefony/akcesoria/kable",
+              "subcategories": []
+            },
+            {
+              "id": 2917,
+              "name": "Pozostałe",
+              "url": "/elektronika/telefony/akcesoria/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2915,
+              "name": "Uchwyty",
+              "url": "/elektronika/telefony/akcesoria/uchwyty",
+              "subcategories": []
+            },
+            {
+              "id": 2909,
+              "name": "Części",
+              "url": "/elektronika/telefony/akcesoria/czesci",
+              "subcategories": []
+            },
+            {
+              "id": 2914,
+              "name": "Powerbanki",
+              "url": "/elektronika/telefony/akcesoria/powerbanki",
+              "subcategories": []
+            },
+            {
+              "id": 2907,
+              "name": "Adaptery i przejściówki",
+              "url": "/elektronika/telefony/akcesoria/adaptery-i-przejsciowki",
+              "subcategories": []
+            },
+            {
+              "id": 2908,
+              "name": "Baterie",
+              "url": "/elektronika/telefony/akcesoria/baterie",
+              "subcategories": []
+            },
+            {
+              "id": 2916,
+              "name": "Zestawy słuchawkowe",
+              "url": "/elektronika/telefony/akcesoria/zestawy-sluchawkowe",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1839,
+          "name": "Smartfony i telefony komórkowe",
+          "url": "/elektronika/telefony/smartfony-telefony-komorkowe",
+          "subcategories": [
+            {
+              "id": 2298,
+              "name": "iPhone",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/iphone",
+              "subcategories": []
+            },
+            {
+              "id": 2310,
+              "name": "Samsung",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/samsung",
+              "subcategories": []
+            },
+            {
+              "id": 2314,
+              "name": "Xiaomi",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/xiaomi",
+              "subcategories": []
+            },
+            {
+              "id": 2315,
+              "name": "Pozostałe telefony",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/pozostale-telefony",
+              "subcategories": []
+            },
+            {
+              "id": 2303,
+              "name": "Motorola",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/motorola",
+              "subcategories": []
+            },
+            {
+              "id": 2297,
+              "name": "Huawei",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/huawei",
+              "subcategories": []
+            },
+            {
+              "id": 2305,
+              "name": "Nokia",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/nokia",
+              "subcategories": []
+            },
+            {
+              "id": 2309,
+              "name": "Realme",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/realme",
+              "subcategories": []
+            },
+            {
+              "id": 2307,
+              "name": "Oppo",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/oppo",
+              "subcategories": []
+            },
+            {
+              "id": 2308,
+              "name": "Poco",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/poco",
+              "subcategories": []
+            },
+            {
+              "id": 2300,
+              "name": "LG",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/lg",
+              "subcategories": []
+            },
+            {
+              "id": 2311,
+              "name": "Sony",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/sony",
+              "subcategories": []
+            },
+            {
+              "id": 4885,
+              "name": "Google",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/google",
+              "subcategories": []
+            },
+            {
+              "id": 2306,
+              "name": "OnePlus",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/oneplus",
+              "subcategories": []
+            },
+            {
+              "id": 2295,
+              "name": "Honor",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/honor",
+              "subcategories": []
+            },
+            {
+              "id": 2292,
+              "name": "Alcatel",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/alcatel",
+              "subcategories": []
+            },
+            {
+              "id": 2313,
+              "name": "Vivo",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/vivo",
+              "subcategories": []
+            },
+            {
+              "id": 2301,
+              "name": "Maxcom",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/maxcom",
+              "subcategories": []
+            },
+            {
+              "id": 2312,
+              "name": "Sony Ericsson",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/sony-ericsson",
+              "subcategories": []
+            },
+            {
+              "id": 2304,
+              "name": "myPhone",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/myphone",
+              "subcategories": []
+            },
+            {
+              "id": 2293,
+              "name": "Asus",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/asus",
+              "subcategories": []
+            },
+            {
+              "id": 2296,
+              "name": "HTC",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/htc",
+              "subcategories": []
+            },
+            {
+              "id": 2299,
+              "name": "Lenovo",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/lenovo",
+              "subcategories": []
+            },
+            {
+              "id": 2302,
+              "name": "Microsoft",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/microsoft",
+              "subcategories": []
+            },
+            {
+              "id": 2294,
+              "name": "Blackberry",
+              "url": "/elektronika/telefony/smartfony-telefony-komorkowe/blackberry",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1840,
+          "name": "Telefony stacjonarne",
+          "url": "/elektronika/telefony/telefony-stacjonarne",
+          "subcategories": []
+        },
+        {
+          "id": 1841,
+          "name": "Złote numery",
+          "url": "/elektronika/telefony/zlote-numery",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": 1776,
+      "name": "Sprzęt AGD",
+      "url": "/elektronika/sprzet-agd",
+      "subcategories": [
+      
+      
+        {
+          "id": 1814,
+          "name": "AGD drobne",
+          "url": "/elektronika/sprzet-agd/agd-drobne",
+          "subcategories": [
+            {
+              "id": 2239,
+              "name": "Odkurzacze",
+              "url": "/elektronika/sprzet-agd/agd-drobne/odkurzacze",
+              "subcategories": []
+            },
+            {
+              "id": 2225,
+              "name": "Ekspresy do kawy",
+              "url": "/elektronika/sprzet-agd/agd-drobne/ekspresy-do-kawy",
+              "subcategories": []
+            },
+            {
+              "id": 2255,
+              "name": "Pozostałe",
+              "url": "/elektronika/sprzet-agd/agd-drobne/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2244,
+              "name": "Roboty kuchenne",
+              "url": "/elektronika/sprzet-agd/agd-drobne/roboty-kuchenne",
+              "subcategories": []
+            },
+            {
+              "id": 2231,
+              "name": "Klimatyzacja i wentylacja",
+              "url": "/elektronika/sprzet-agd/agd-drobne/klimatyzacja-i-wentylacja",
+              "subcategories": []
+            },
+            {
+              "id": 2246,
+              "name": "Suszarki do włosów",
+              "url": "/elektronika/sprzet-agd/agd-drobne/suszarki-do-wlosow",
+              "subcategories": []
+            },
+            {
+              "id": 2235,
+              "name": "Maszyny do szycia",
+              "url": "/elektronika/sprzet-agd/agd-drobne/maszyny-do-szycia",
+              "subcategories": []
+            },
+            {
+              "id": 2238,
+              "name": "Oczyszczacze powietrza",
+              "url": "/elektronika/sprzet-agd/agd-drobne/oczyszczacze-powietrza",
+              "subcategories": []
+            },
+            {
+              "id": 2253,
+              "name": "Żelazka",
+              "url": "/elektronika/sprzet-agd/agd-drobne/zelazka",
+              "subcategories": []
+            },
+            {
+              "id": 2233,
+              "name": "Lokówki",
+              "url": "/elektronika/sprzet-agd/agd-drobne/lokowki",
+              "subcategories": []
+            },
+            {
+              "id": 2242,
+              "name": "Parownice i myjki parowe",
+              "url": "/elektronika/sprzet-agd/agd-drobne/parownice-i-myjki-parowe",
+              "subcategories": []
+            },
+            {
+              "id": 2243,
+              "name": "Prostownice i karbownice",
+              "url": "/elektronika/sprzet-agd/agd-drobne/prostownice-i-karbownice",
+              "subcategories": []
+            },
+            {
+              "id": 2227,
+              "name": "Frytkownice",
+              "url": "/elektronika/sprzet-agd/agd-drobne/frytkownice",
+              "subcategories": []
+            },
+            {
+              "id": 2224,
+              "name": "Depilatory",
+              "url": "/elektronika/sprzet-agd/agd-drobne/depilatory",
+              "subcategories": []
+            },
+            {
+              "id": 2237,
+              "name": "Nawilżacze",
+              "url": "/elektronika/sprzet-agd/agd-drobne/nawilzacze",
+              "subcategories": []
+            },
+            {
+              "id": 2230,
+              "name": "Grille elektryczne",
+              "url": "/elektronika/sprzet-agd/agd-drobne/grille-elektryczne",
+              "subcategories": []
+            },
+            {
+              "id": 2229,
+              "name": "Golarki",
+              "url": "/elektronika/sprzet-agd/agd-drobne/golarki",
+              "subcategories": []
+            },
+            {
+              "id": 2236,
+              "name": "Multicookery i garnki elektryczne",
+              "url": "/elektronika/sprzet-agd/agd-drobne/multicookery-i-garnki-elektryczne",
+              "subcategories": []
+            },
+            {
+              "id": 2234,
+              "name": "Maszynki do strzyżenia",
+              "url": "/elektronika/sprzet-agd/agd-drobne/maszynki-do-strzyzenia",
+              "subcategories": []
+            },
+            {
+              "id": 2221,
+              "name": "Blendery kielichowe",
+              "url": "/elektronika/sprzet-agd/agd-drobne/blendery-kielichowe",
+              "subcategories": []
+            },
+            {
+              "id": 2232,
+              "name": "Kuchenki mikrofalowe",
+              "url": "/elektronika/sprzet-agd/agd-drobne/kuchenki-mikrofalowe",
+              "subcategories": []
+            },
+            {
+              "id": 2223,
+              "name": "Czajniki elektryczne",
+              "url": "/elektronika/sprzet-agd/agd-drobne/czajniki-elektryczne",
+              "subcategories": []
+            },
+            {
+              "id": 2240,
+              "name": "Opiekacze",
+              "url": "/elektronika/sprzet-agd/agd-drobne/opiekacze",
+              "subcategories": []
+            },
+            {
+              "id": 2241,
+              "name": "Parowary",
+              "url": "/elektronika/sprzet-agd/agd-drobne/parowary",
+              "subcategories": []
+            },
+            {
+              "id": 2245,
+              "name": "Sokowirówki",
+              "url": "/elektronika/sprzet-agd/agd-drobne/sokowirowki",
+              "subcategories": []
+            },
+            {
+              "id": 2226,
+              "name": "Filtry do wody",
+              "url": "/elektronika/sprzet-agd/agd-drobne/filtry-do-wody",
+              "subcategories": []
+            },
+            {
+              "id": 2228,
+              "name": "Gofrownice",
+              "url": "/elektronika/sprzet-agd/agd-drobne/gofrownice",
+              "subcategories": []
+            },
+            {
+              "id": 2222,
+              "name": "Blendery ręczne",
+              "url": "/elektronika/sprzet-agd/agd-drobne/blendery-reczne",
+              "subcategories": []
+            },
+            {
+              "id": 2248,
+              "name": "Tostery",
+              "url": "/elektronika/sprzet-agd/agd-drobne/tostery",
+              "subcategories": []
+            },
+            {
+              "id": 2250,
+              "name": "Wagi łazienkowe",
+              "url": "/elektronika/sprzet-agd/agd-drobne/wagi-lazienkowe",
+              "subcategories": []
+            },
+            {
+              "id": 2252,
+              "name": "Wyciskarki wolnoobrotowe",
+              "url": "/elektronika/sprzet-agd/agd-drobne/wyciskarki-wolnoobrotowe",
+              "subcategories": []
+            },
+            {
+              "id": 2247,
+              "name": "Szczoteczki elektryczne",
+              "url": "/elektronika/sprzet-agd/agd-drobne/szczoteczki-elektryczne",
+              "subcategories": []
+            },
+            {
+              "id": 2249,
+              "name": "Trymery",
+              "url": "/elektronika/sprzet-agd/agd-drobne/trymery",
+              "subcategories": []
+            },
+            {
+              "id": 2251,
+              "name": "Wyciskarki do cytrusów",
+              "url": "/elektronika/sprzet-agd/agd-drobne/wyciskarki-do-cytrusow",
+              "subcategories": []
+            }
+          ]
+        },
+     
+        
+        {
+          "id": 1815,
+          "name": "AGD wolnostojące",
+          "url": "/elektronika/sprzet-agd/agd-wolnostojace",
+          "subcategories": [
+            {
+              "id": 2214,
+              "name": "Pralki",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/pralki",
+              "subcategories": []
+            },
+            {
+              "id": 2212,
+              "name": "Lodówki",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/lodowki",
+              "subcategories": []
+            },
+            {
+              "id": 2211,
+              "name": "Kuchenki wolnostojące",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/kuchenki-wolnostojace",
+              "subcategories": []
+            },
+            {
+              "id": 2220,
+              "name": "Pozostałe",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2218,
+              "name": "Zmywarki",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/zmywarki",
+              "subcategories": []
+            },
+            {
+              "id": 2213,
+              "name": "Okapy",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/okapy",
+              "subcategories": []
+            },
+            {
+              "id": 2216,
+              "name": "Suszarki do ubrań",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/suszarki-do-ubran",
+              "subcategories": []
+            },
+            {
+              "id": 2217,
+              "name": "Zamrażarki",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/zamrazarki",
+              "subcategories": []
+            },
+            {
+              "id": 2215,
+              "name": "Pralko-suszarki",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/pralko-suszarki",
+              "subcategories": []
+            },
+            {
+              "id": 2210,
+              "name": "Kuchenki przenośne",
+              "url": "/elektronika/sprzet-agd/agd-wolnostojace/kuchenki-przenosne",
+              "subcategories": []
+            }
+          ]
+        },
+    
+        {
+          "id": 3115,
+          "name": "Części i akcesoria do AGD",
+          "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd",
+          "subcategories": [
+            {
+              "id": 3122,
+              "name": "Części i akcesoria do odkurzaczy",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-odkurzaczy",
+              "subcategories": []
+            },
+            {
+              "id": 3119,
+              "name": "Części i akcesoria do pralek",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-pralek",
+              "subcategories": []
+            },
+            {
+              "id": 3126,
+              "name": "Części i akcesoria AGD do kuchni",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-agd-do-kuchni",
+              "subcategories": []
+            },
+            {
+              "id": 3116,
+              "name": "Części i akcesoria do ekspresów",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-ekspresow",
+              "subcategories": []
+            },
+            {
+              "id": 3124,
+              "name": "Części i akcesoria do zmywarek",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-zmywarek",
+              "subcategories": []
+            },
+            {
+              "id": 3125,
+              "name": "Części i akcesoria AGD do domu",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-agd-do-domu",
+              "subcategories": []
+            },
+            {
+              "id": 3118,
+              "name": "Części i akcesoria do lodówek",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-lodowek",
+              "subcategories": []
+            },
+            {
+              "id": 3128,
+              "name": "Pozostałe części i akcesoria",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/pozostale-czesci-i-akcesoria",
+              "subcategories": []
+            },
+            {
+              "id": 3117,
+              "name": "Części i akcesoria do kuchenek",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-kuchenek",
+              "subcategories": []
+            },
+            {
+              "id": 3127,
+              "name": "Części i akcesoria AGD do pielęgnacji ciała",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-agd-do-pielegnacji-ciala",
+              "subcategories": []
+            },
+            {
+              "id": 3123,
+              "name": "Części i akcesoria do okapów",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-okapow",
+              "subcategories": []
+            },
+            {
+              "id": 3121,
+              "name": "Części i akcesoria do płyt grzewczych",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-plyt-grzewczych",
+              "subcategories": []
+            },
+            {
+              "id": 3120,
+              "name": "Części i akcesoria do suszarek bębnowych",
+              "url": "/elektronika/sprzet-agd/czesci-i-akcesoria-do-agd/czesci-i-akcesoria-do-suszarek-bebnowych",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1813,
+          "name": "AGD do zabudowy",
+          "url": "/elektronika/sprzet-agd/agd-do-zabudowy",
+          "subcategories": [
+            {
+              "id": 2205,
+              "name": "Płyty grzewcze",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/plyty-grzewcze",
+              "subcategories": []
+            },
+            {
+              "id": 2204,
+              "name": "Piekarniki",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/piekarniki",
+              "subcategories": []
+            },
+            {
+              "id": 2207,
+              "name": "Zmywarki",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/zmywarki",
+              "subcategories": []
+            },
+            {
+              "id": 2202,
+              "name": "Lodówki",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/lodowki",
+              "subcategories": []
+            },
+            {
+              "id": 2203,
+              "name": "Okapy",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/okapy",
+              "subcategories": []
+            },
+            {
+              "id": 2209,
+              "name": "Pozostałe",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2200,
+              "name": "Ekspresy do kawy",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/ekspresy-do-kawy",
+              "subcategories": []
+            },
+            {
+              "id": 2201,
+              "name": "Kuchenki mikrofalowe",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/kuchenki-mikrofalowe",
+              "subcategories": []
+            },
+            {
+              "id": 2206,
+              "name": "Zestawy AGD do zabudowy",
+              "url": "/elektronika/sprzet-agd/agd-do-zabudowy/zestawy-agd-do-zabudowy",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Gry i Konsole",
+      "url": "/elektronika/gry-konsole",
+      "subcategories": [
+        {
+          "id": 1603,
+          "name": "Gry",
+          "url": "/elektronika/gry-konsole/gry",
+          "subcategories": [
+            {
+              "id": 2272,
+              "name": "PlayStation",
+              "url": "/elektronika/gry-konsole/gry/playstation",
+              "subcategories": []
+            },
+            {
+              "id": 2275,
+              "name": "PC",
+              "url": "/elektronika/gry-konsole/gry/pc",
+              "subcategories": []
+            },
+            {
+              "id": 2273,
+              "name": "Xbox",
+              "url": "/elektronika/gry-konsole/gry/xbox",
+              "subcategories": []
+            },
+            {
+              "id": 2274,
+              "name": "Nintendo",
+              "url": "/elektronika/gry-konsole/gry/nintendo",
+              "subcategories": []
+            },
+            {
+              "id": 2276,
+              "name": "Pozostałe",
+              "url": "/elektronika/gry-konsole/gry/pozostale",
+              "subcategories": []
+            }
+          ]
+        },
+    
+        {
+          "id": 1604,
+          "name": "Konsole",
+          "url": "/elektronika/gry-konsole/konsole",
+          "subcategories": [
+            {
+              "id": 2268,
+              "name": "PlayStation",
+              "url": "/elektronika/gry-konsole/konsole/playstation",
+              "subcategories": []
+            },
+            {
+              "id": 2269,
+              "name": "Xbox",
+              "url": "/elektronika/gry-konsole/konsole/xbox",
+              "subcategories": []
+            },
+            {
+              "id": 2270,
+              "name": "Nintendo",
+              "url": "/elektronika/gry-konsole/konsole/nintendo",
+              "subcategories": []
+            },
+            {
+              "id": 2271,
+              "name": "Pozostałe",
+              "url": "/elektronika/gry-konsole/konsole/pozostale",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1605,
+          "name": "Akcesoria gamingowe",
+          "url": "/elektronika/gry-konsole/akcesoria-gamingowe",
+          "subcategories": [
+            {
+              "id": 2280,
+              "name": "Pady",
+              "url": "/elektronika/gry-konsole/akcesoria-gamingowe/pady",
+              "subcategories": []
+            },
+            {
+              "id": 2278,
+              "name": "Kierownice",
+              "url": "/elektronika/gry-konsole/akcesoria-gamingowe/kierownice",
+              "subcategories": []
+            },
+            {
+              "id": 2283,
+              "name": "Pozostałe",
+              "url": "/elektronika/gry-konsole/akcesoria-gamingowe/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2277,
+              "name": "Fotele i biurka",
+              "url": "/elektronika/gry-konsole/akcesoria-gamingowe/fotele-i-biurka",
+              "subcategories": []
+            },
+            {
+              "id": 2281,
+              "name": "Słuchawki",
+              "url": "/elektronika/gry-konsole/akcesoria-gamingowe/sluchawki",
+              "subcategories": []
+            },
+            {
+              "id": 2279,
+              "name": "Myszki i klawiatury",
+              "url": "/elektronika/gry-konsole/akcesoria-gamingowe/myszki-i-klawiatury",
+              "subcategories": []
+            },
+            {
+              "id": 2282,
+              "name": "Urządzenia VR",
+              "url": "/elektronika/gry-konsole/akcesoria-gamingowe/urzadzenia-vr",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1606,
+          "name": "Pozostałe",
+          "url": "/elektronika/gry-konsole/pozostale-gry-konsole",
+          "subcategories": []
+        },
+        {
+          "id": 1855,
+          "name": "Kolekcje graczy",
+          "url": "/elektronika/gry-konsole/kolekcje-graczy",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "name": "Komputery",
+      "url": "/elektronika/komputery",
+      "subcategories": [
+      
+      
+        {
+          "id": 1199,
+          "name": "Laptopy",
+          "url": "/elektronika/komputery/laptopy",
+          "subcategories": [
+            {
+              "id": 3108,
+              "name": "Lenovo",
+              "url": "/elektronika/komputery/laptopy/lenovo",
+              "subcategories": []
+            },
+            {
+              "id": 3106,
+              "name": "HP, Compaq",
+              "url": "/elektronika/komputery/laptopy/hp-compaq",
+              "subcategories": []
+            },
+            {
+              "id": 3104,
+              "name": "Dell",
+              "url": "/elektronika/komputery/laptopy/dell",
+              "subcategories": []
+            },
+            {
+              "id": 3102,
+              "name": "Apple",
+              "url": "/elektronika/komputery/laptopy/apple",
+              "subcategories": []
+            },
+            {
+              "id": 3103,
+              "name": "Asus",
+              "url": "/elektronika/komputery/laptopy/asus",
+              "subcategories": []
+            },
+            {
+              "id": 3101,
+              "name": "Acer",
+              "url": "/elektronika/komputery/laptopy/acer",
+              "subcategories": []
+            },
+            {
+              "id": 3100,
+              "name": "Pozostałe",
+              "url": "/elektronika/komputery/laptopy/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 3111,
+              "name": "MSI",
+              "url": "/elektronika/komputery/laptopy/msi",
+              "subcategories": []
+            },
+            {
+              "id": 3114,
+              "name": "Toshiba",
+              "url": "/elektronika/komputery/laptopy/toshiba",
+              "subcategories": []
+            },
+            {
+              "id": 3112,
+              "name": "Samsung",
+              "url": "/elektronika/komputery/laptopy/samsung",
+              "subcategories": []
+            },
+            {
+              "id": 3105,
+              "name": "Fujitsu",
+              "url": "/elektronika/komputery/laptopy/fujitsu",
+              "subcategories": []
+            },
+            {
+              "id": 3107,
+              "name": "Huawei",
+              "url": "/elektronika/komputery/laptopy/huawei",
+              "subcategories": []
+            },
+            {
+              "id": 3110,
+              "name": "Microsoft",
+              "url": "/elektronika/komputery/laptopy/microsoft",
+              "subcategories": []
+            },
+            {
+              "id": 3113,
+              "name": "Sony",
+              "url": "/elektronika/komputery/laptopy/sony",
+              "subcategories": []
+            },
+            {
+              "id": 3109,
+              "name": "Medion",
+              "url": "/elektronika/komputery/laptopy/medion",
+              "subcategories": []
+            }
+          ]
+        },
+      
+        {
+          "id": 1847,
+          "name": "Tablety",
+          "url": "/elektronika/komputery/tablety",
+          "subcategories": [
+            {
+              "id": 2194,
+              "name": "Urządzenia",
+              "url": "/elektronika/komputery/tablety/urzadzenia",
+              "subcategories": []
+            },
+            {
+              "id": 2192,
+              "name": "Akcesoria",
+              "url": "/elektronika/komputery/tablety/akcesoria",
+              "subcategories": []
+            },
+            {
+              "id": 2195,
+              "name": "Pozostałe",
+              "url": "/elektronika/komputery/tablety/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2193,
+              "name": "Części",
+              "url": "/elektronika/komputery/tablety/czesci",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1197,
+          "name": "Komputery stacjonarne",
+          "url": "/elektronika/komputery/komputery-stacjonarne",
+          "subcategories": []
+        },
+        {
+          "id": 1201,
+          "name": "Monitory",
+          "url": "/elektronika/komputery/monitory",
+          "subcategories": []
+        },
+  
+        {
+          "id": 1846,
+          "name": "Urządzenia sieciowe",
+          "url": "/elektronika/komputery/urzadzenia-sieciowe",
+          "subcategories": [
+            {
+              "id": 2197,
+              "name": "Routery",
+              "url": "/elektronika/komputery/urzadzenia-sieciowe/routery",
+              "subcategories": []
+            },
+            {
+              "id": 2199,
+              "name": "Pozostałe",
+              "url": "/elektronika/komputery/urzadzenia-sieciowe/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2196,
+              "name": "Modemy",
+              "url": "/elektronika/komputery/urzadzenia-sieciowe/modemy",
+              "subcategories": []
+            },
+            {
+              "id": 2198,
+              "name": "Serwery",
+              "url": "/elektronika/komputery/urzadzenia-sieciowe/serwery",
+              "subcategories": []
+            }
+          ]
+        },
+     
+        {
+          "id": 1842,
+          "name": "Akcesoria komputerowe",
+          "url": "/elektronika/komputery/akcesoria-komputerowe",
+          "subcategories": [
+            {
+              "id": 2166,
+              "name": "Klawiatury",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/klawiatury",
+              "subcategories": []
+            },
+            {
+              "id": 3095,
+              "name": "Kable i przejściówki",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/kable-i-przejsciowki",
+              "subcategories": []
+            },
+            {
+              "id": 2170,
+              "name": "Podkładki i stojaki",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/podkladki-i-stojaki",
+              "subcategories": []
+            },
+            {
+              "id": 2168,
+              "name": "Myszki",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/myszki",
+              "subcategories": []
+            },
+            {
+              "id": 2172,
+              "name": "Torby i etui",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/torby-i-etui",
+              "subcategories": []
+            },
+            {
+              "id": 2173,
+              "name": "Pozostałe",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2164,
+              "name": "Głośniki komputerowe",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/glosniki-komputerowe",
+              "subcategories": []
+            },
+            {
+              "id": 2165,
+              "name": "Kamerki internetowe",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/kamerki-internetowe",
+              "subcategories": []
+            },
+            {
+              "id": 2171,
+              "name": "Słuchawki",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/sluchawki",
+              "subcategories": []
+            },
+            {
+              "id": 2169,
+              "name": "Pendrive",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/pendrive",
+              "subcategories": []
+            },
+            {
+              "id": 2163,
+              "name": "Dyski zewnętrzne",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/dyski-zewnetrzne",
+              "subcategories": []
+            },
+            {
+              "id": 2167,
+              "name": "Mikrofony",
+              "url": "/elektronika/komputery/akcesoria-komputerowe/mikrofony",
+              "subcategories": []
+            }
+          ]
+        },
+  
+        {
+          "id": 1845,
+          "name": "Podzespoły i części",
+          "url": "/elektronika/komputery/podzespoly-i-czesci",
+          "subcategories": [
+            {
+              "id": 2190,
+              "name": "Zasilacze",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/zasilacze",
+              "subcategories": []
+            },
+            {
+              "id": 2187,
+              "name": "Pamięci RAM",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/pamieci-ram",
+              "subcategories": []
+            },
+            {
+              "id": 2184,
+              "name": "Karty graficzne",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/karty-graficzne",
+              "subcategories": []
+            },
+            {
+              "id": 2191,
+              "name": "Pozostałe",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2188,
+              "name": "Płyty główne",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/plyty-glowne",
+              "subcategories": []
+            },
+            {
+              "id": 2186,
+              "name": "Obudowy",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/obudowy",
+              "subcategories": []
+            },
+            {
+              "id": 2182,
+              "name": "Dyski",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/dyski",
+              "subcategories": []
+            },
+            {
+              "id": 2189,
+              "name": "Procesory",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/procesory",
+              "subcategories": []
+            },
+            {
+              "id": 3096,
+              "name": "Chłodzenie do komputerów",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/chlodzenie-do-komputerow",
+              "subcategories": []
+            },
+            {
+              "id": 2185,
+              "name": "Napędy",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/napedy",
+              "subcategories": []
+            },
+            {
+              "id": 3097,
+              "name": "Baterie do laptopów",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/baterie-do-laptopow",
+              "subcategories": []
+            },
+            {
+              "id": 3099,
+              "name": "Matryce do laptopów",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/matryce-do-laptopow",
+              "subcategories": []
+            },
+            {
+              "id": 3098,
+              "name": "Klawiatury do laptopów",
+              "url": "/elektronika/komputery/podzespoly-i-czesci/klawiatury-do-laptopow",
+              "subcategories": []
+            }
+          ]
+        },
+      
+        {
+          "id": 1195,
+          "name": "Drukarki i skanery",
+          "url": "/elektronika/komputery/drukarki-i-skanery",
+          "subcategories": [
+            {
+              "id": 2174,
+              "name": "Drukarki",
+              "url": "/elektronika/komputery/drukarki-i-skanery/drukarki",
+              "subcategories": []
+            },
+            {
+              "id": 2178,
+              "name": "Tonery",
+              "url": "/elektronika/komputery/drukarki-i-skanery/tonery",
+              "subcategories": []
+            },
+            {
+              "id": 2179,
+              "name": "Tusze",
+              "url": "/elektronika/komputery/drukarki-i-skanery/tusze",
+              "subcategories": []
+            },
+            {
+              "id": 2180,
+              "name": "Urządzenia wielofunkcyjne",
+              "url": "/elektronika/komputery/drukarki-i-skanery/urzadzenia-wielofunkcyjne",
+              "subcategories": []
+            },
+            {
+              "id": 2175,
+              "name": "Drukarki 3D",
+              "url": "/elektronika/komputery/drukarki-i-skanery/drukarki-3d",
+              "subcategories": []
+            },
+            {
+              "id": 2177,
+              "name": "Skanery",
+              "url": "/elektronika/komputery/drukarki-i-skanery/skanery",
+              "subcategories": []
+            },
+            {
+              "id": 2181,
+              "name": "Pozostałe",
+              "url": "/elektronika/komputery/drukarki-i-skanery/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 2176,
+              "name": "Papier",
+              "url": "/elektronika/komputery/drukarki-i-skanery/papier",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1211,
+          "name": "Pozostałe",
+          "url": "/elektronika/komputery/pozostale",
+          "subcategories": []
+        },
+        {
+          "id": 1205,
+          "name": "Oprogramowanie",
+          "url": "/elektronika/komputery/oprogramowanie",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": 1951,
+      "name": "Sprzęt audio",
+      "url": "/elektronika/sprzet-audio",
+      "subcategories": [
+  
+      
+        {
+          "id": 1959,
+          "name": "Słuchawki",
+          "url": "/elektronika/sprzet-audio/sluchawki",
+          "subcategories": [
+            {
+              "id": 1973,
+              "name": "Słuchawki bezprzewodowe",
+              "url": "/elektronika/sprzet-audio/sluchawki/sluchawki-bezprzewodowe",
+              "subcategories": []
+            },
+            {
+              "id": 1975,
+              "name": "Słuchawki przewodowe",
+              "url": "/elektronika/sprzet-audio/sluchawki/sluchawki-przewodowe",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1958,
+          "name": "Radia i CD",
+          "url": "/elektronika/sprzet-audio/radia-i-cd",
+          "subcategories": []
+        },
+        {
+          "id": 1963,
+          "name": "Akcesoria",
+          "url": "/elektronika/sprzet-audio/akcesoria",
+          "subcategories": [
+            {
+              "id": 1974,
+              "name": "Kable",
+              "url": "/elektronika/sprzet-audio/akcesoria/kable",
+              "subcategories": []
+            },
+            {
+              "id": 1978,
+              "name": "Pozostałe",
+              "url": "/elektronika/sprzet-audio/akcesoria/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 1977,
+              "name": "Wtyki i przejściówki",
+              "url": "/elektronika/sprzet-audio/akcesoria/wtyki-i-przejsciowki",
+              "subcategories": []
+            },
+            {
+              "id": 1976,
+              "name": "Listwy zasilające",
+              "url": "/elektronika/sprzet-audio/akcesoria/listwy-zasilajace",
+              "subcategories": []
+            }
+          ]
+        },
+    
+        {
+          "id": 1954,
+          "name": "Głośniki i kolumny",
+          "url": "/elektronika/sprzet-audio/glosniki-i-kolumny",
+          "subcategories": [
+            {
+              "id": 1969,
+              "name": "Kolumny",
+              "url": "/elektronika/sprzet-audio/glosniki-i-kolumny/kolumny",
+              "subcategories": []
+            },
+            {
+              "id": 1966,
+              "name": "Głośniki",
+              "url": "/elektronika/sprzet-audio/glosniki-i-kolumny/glosniki",
+              "subcategories": []
+            },
+            {
+              "id": 1967,
+              "name": "Głośniki przenośne",
+              "url": "/elektronika/sprzet-audio/glosniki-i-kolumny/glosniki-przenosne",
+              "subcategories": []
+            },
+            {
+              "id": 1968,
+              "name": "Kina domowe",
+              "url": "/elektronika/sprzet-audio/glosniki-i-kolumny/kina-domowe",
+              "subcategories": []
+            },
+            {
+              "id": 1971,
+              "name": "Subwoofery",
+              "url": "/elektronika/sprzet-audio/glosniki-i-kolumny/subwoofery",
+              "subcategories": []
+            },
+            {
+              "id": 1970,
+              "name": "Soundbary",
+              "url": "/elektronika/sprzet-audio/glosniki-i-kolumny/soundbary",
+              "subcategories": []
+            },
+            {
+              "id": 1972,
+              "name": "Pozostałe",
+              "url": "/elektronika/sprzet-audio/glosniki-i-kolumny/pozostale",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1962,
+          "name": "Wzmacniacze",
+          "url": "/elektronika/sprzet-audio/wzmacniacze",
+          "subcategories": []
+        },
+     
+        {
+          "id": 1952,
+          "name": "Amplitunery",
+          "url": "/elektronika/sprzet-audio/amplitunery",
+          "subcategories": []
+        },
+        {
+          "id": 1957,
+          "name": "Mikrofony",
+          "url": "/elektronika/sprzet-audio/mikrofony",
+          "subcategories": []
+        },
+        {
+          "id": 1965,
+          "name": "Pozostałe",
+          "url": "/elektronika/sprzet-audio/pozostale",
+          "subcategories": []
+        },
+        {
+          "id": 1961,
+          "name": "Wieże",
+          "url": "/elektronika/sprzet-audio/wieze",
+          "subcategories": []
+        },
+        {
+          "id": 1955,
+          "name": "Gramofony",
+          "url": "/elektronika/sprzet-audio/gramofony",
+          "subcategories": []
+        },
+        {
+          "id": 1956,
+          "name": "Magnetofony",
+          "url": "/elektronika/sprzet-audio/magnetofony",
+          "subcategories": []
+        },
+        {
+          "id": 1964,
+          "name": "Części",
+          "url": "/elektronika/sprzet-audio/czesci",
+          "subcategories": []
+        },
+  
+        {
+          "id": 1960,
+          "name": "Sprzęt estradowy",
+          "url": "/elektronika/sprzet-audio/sprzet-estradowy",
+          "subcategories": [
+            {
+              "id": 4282,
+              "name": "Miksery audio",
+              "url": "/elektronika/sprzet-audio/sprzet-estradowy/miksery-audio",
+              "subcategories": []
+            },
+            {
+              "id": 4284,
+              "name": "Oświetlenie i efekty",
+              "url": "/elektronika/sprzet-audio/sprzet-estradowy/oswietlenie-i-efekty",
+              "subcategories": []
+            },
+            {
+              "id": 4283,
+              "name": "Nagłośnienie",
+              "url": "/elektronika/sprzet-audio/sprzet-estradowy/naglosnienie",
+              "subcategories": []
+            },
+            {
+              "id": 4285,
+              "name": "Pozostałe",
+              "url": "/elektronika/sprzet-audio/sprzet-estradowy/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 4281,
+              "name": "Kable, przewody i wtyki",
+              "url": "/elektronika/sprzet-audio/sprzet-estradowy/kable-przewody-i-wtyki",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1953,
+          "name": "Dyktafony",
+          "url": "/elektronika/sprzet-audio/dyktafony",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "name": "Pozostała elektronika",
+      "url": "/elektronika/pozostala-elektronika",
+      "subcategories": []
+    },
+    {
+      "id": 727,
+      "name": "Fotografia",
+      "url": "/elektronika/fotografia",
+      "subcategories": [
+        {
+          "id": 1668,
+          "name": "Akcesoria fotograficzne",
+          "url": "/elektronika/fotografia/akcesoria-fotograficzne",
+          "subcategories": []
+        },
+        {
+          "id": 1665,
+          "name": "Obiektywy",
+          "url": "/elektronika/fotografia/obiektywy",
+          "subcategories": []
+        },
+        {
+          "id": 1661,
+          "name": "Aparaty analogowe",
+          "url": "/elektronika/fotografia/aparaty-analogowe",
+          "subcategories": []
+        },
+        {
+          "id": 1664,
+          "name": "Lustrzanki",
+          "url": "/elektronika/fotografia/lustrzanki",
+          "subcategories": []
+        },
+        {
+          "id": 1662,
+          "name": "Aparaty kompaktowe",
+          "url": "/elektronika/fotografia/aparaty-kompaktowe",
+          "subcategories": []
+        },
+        {
+          "id": 1844,
+          "name": "Drony profesjonalne",
+          "url": "/elektronika/fotografia/drony-profesjonalne",
+          "subcategories": []
+        },
+        {
+          "id": 1666,
+          "name": "Oświetlenie",
+          "url": "/elektronika/fotografia/oswietlenie",
+          "subcategories": []
+        },
+        {
+          "id": 1667,
+          "name": "Statywy",
+          "url": "/elektronika/fotografia/statywy",
+          "subcategories": []
+        },
+        {
+          "id": 1669,
+          "name": "Pozostałe Fotografia",
+          "url": "/elektronika/fotografia/pozostale-fotografia",
+          "subcategories": []
+        },
+        {
+          "id": 1663,
+          "name": "Bezlusterkowce",
+          "url": "/elektronika/fotografia/bezlusterkowce",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": 1856,
+      "name": "Smartwatche i opaski",
+      "url": "/elektronika/smartwatche-i-opaski",
+      "subcategories": [
+        {
+          "id": 1857,
+          "name": "Smartwatche",
+          "url": "/elektronika/smartwatche-i-opaski/smartwatche",
+          "subcategories": [
+            {
+              "id": 4931,
+              "name": "Pozostałe",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 4929,
+              "name": "Samsung",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/samsung",
+              "subcategories": []
+            },
+            {
+              "id": 4922,
+              "name": "Apple",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/apple",
+              "subcategories": []
+            },
+            {
+              "id": 4928,
+              "name": "Huawei",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/huawei",
+              "subcategories": []
+            },
+            {
+              "id": 4925,
+              "name": "Garmin",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/garmin",
+              "subcategories": []
+            },
+            {
+              "id": 4930,
+              "name": "Xiaomi",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/xiaomi",
+              "subcategories": []
+            },
+            {
+              "id": 4921,
+              "name": "Amazfit",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/amazfit",
+              "subcategories": []
+            },
+            {
+              "id": 4924,
+              "name": "Forever",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/forever",
+              "subcategories": []
+            },
+            {
+              "id": 4923,
+              "name": "Fitbit",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/fitbit",
+              "subcategories": []
+            },
+            {
+              "id": 4927,
+              "name": "Honor",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/honor",
+              "subcategories": []
+            },
+            {
+              "id": 4926,
+              "name": "Hama",
+              "url": "/elektronika/smartwatche-i-opaski/smartwatche/hama",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1859,
+          "name": "Akcesoria i części",
+          "url": "/elektronika/smartwatche-i-opaski/akcesoria-i-czesci",
+          "subcategories": []
+        },
+        {
+          "id": 1858,
+          "name": "Opaski smart",
+          "url": "/elektronika/smartwatche-i-opaski/opaski-smart",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": 1848,
+      "name": "TV",
+      "url": "/elektronika/tv",
+      "subcategories": [
+        {
+          "id": 1850,
+          "name": "Akcesoria",
+          "url": "/elektronika/tv/akcesoria",
+          "subcategories": []
+        },
+        {
+          "id": 1849,
+          "name": "Telewizory",
+          "url": "/elektronika/tv/telewizory",
+          "subcategories": []
+        },
+        {
+          "id": 1851,
+          "name": "Części",
+          "url": "/elektronika/tv/czesci",
+          "subcategories": []
+        },
+        {
+          "id": 1852,
+          "name": "Pozostałe",
+          "url": "/elektronika/tv/pozostale",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": 1979,
+      "name": "Sprzęt video",
+      "url": "/elektronika/sprzet-video",
+      "subcategories": [
+        {
+          "id": 1982,
+          "name": "Kamery",
+          "url": "/elektronika/sprzet-video/kamery",
+          "subcategories": [
+            {
+              "id": 1988,
+              "name": "Kamery do monitoringu",
+              "url": "/elektronika/sprzet-video/kamery/kamery-do-monitoringu",
+              "subcategories": []
+            },
+            {
+              "id": 1990,
+              "name": "Wideorejestratory",
+              "url": "/elektronika/sprzet-video/kamery/wideorejestratory",
+              "subcategories": []
+            },
+            {
+              "id": 1989,
+              "name": "Kamery sportowe",
+              "url": "/elektronika/sprzet-video/kamery/kamery-sportowe",
+              "subcategories": []
+            },
+            {
+              "id": 1991,
+              "name": "Pozostałe",
+              "url": "/elektronika/sprzet-video/kamery/pozostale",
+              "subcategories": []
+            },
+            {
+              "id": 1987,
+              "name": "Kamery cyfrowe",
+              "url": "/elektronika/sprzet-video/kamery/kamery-cyfrowe",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 1984,
+          "name": "Projektory",
+          "url": "/elektronika/sprzet-video/projektory",
+          "subcategories": []
+        },
+        {
+          "id": 1980,
+          "name": "Blu ray i DVD",
+          "url": "/elektronika/sprzet-video/blu-ray-i-dvd",
+          "subcategories": []
+        },
+        {
+          "id": 1981,
+          "name": "Dekodery",
+          "url": "/elektronika/sprzet-video/dekodery",
+          "subcategories": []
+        },
+        {
+          "id": 1985,
+          "name": "Akcesoria i części",
+          "url": "/elektronika/sprzet-video/akcesoria-i-czesci",
+          "subcategories": []
+        },
+        {
+          "id": 1986,
+          "name": "Pozostałe",
+          "url": "/elektronika/sprzet-video/pozostale",
+          "subcategories": []
+        },
+        {
+          "id": 1983,
+          "name": "Magnetowidy",
+          "url": "/elektronika/sprzet-video/magnetowidy",
+          "subcategories": []
+        }
+      ]
+    }
+  ]
+}
